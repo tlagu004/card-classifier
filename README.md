@@ -26,5 +26,8 @@ probabilities = predict(model, image_tensor, device)
 ## Performance
 The model employs a pre-trained EfficientNet backbone, achieving rapid convergence.MetricResultEpochs5OptimizerAdam ($lr=0.001$)Final Val Loss0.139LicenseThis project is licensed under the MIT License - see the LICENSE file for details.
 
+## Acknowledgements
+Special thanks to Rob Mulla for the inspiration and educational content that guided the development of this project.
+
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
